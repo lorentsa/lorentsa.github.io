@@ -49,10 +49,6 @@ body{
 	background-size: 100%;
 }
 
-.img{
-	border-radius: 15px;
-	
-}
 
 .img:hover{
 	transform: scale(1.2);
